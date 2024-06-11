@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/unde-perferendis-id-omnis",
-  "version": "1.2.39",
+  "version": "1.2.40",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -809,5 +809,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/unde-perferendis-id-omnis/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
